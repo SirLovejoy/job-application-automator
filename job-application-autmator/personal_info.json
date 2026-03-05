@@ -1,0 +1,13 @@
+{
+    "first_name": "First",
+    "last_name": "Last",
+    "full_name": "First Last",
+    "email": "your.email@gmail.com",
+    "phone": "+1 719 555 1234",
+    "linkedin": "https://www.linkedin.com/in/your-profile-123",
+    "resume_path": "C:/Users/YourName/Documents/Resume - 2025.pdf",
+    "years_experience": "4",
+    "current_company": "Tech Startup Inc",
+    "willing_to_relocate": "Yes",
+    "require_sponsorship": "No"
+}
